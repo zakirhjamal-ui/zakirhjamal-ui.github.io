@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body>
     <h1>Zakir Hassan Jamal</h1>
     <img src="./IMG_6787.JPG" height="184" width="140" alt="">
