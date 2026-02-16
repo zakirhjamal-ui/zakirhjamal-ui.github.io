@@ -17,6 +17,20 @@ main{
     width: 90%;
     margin: 0 auto;
 }
+figure{
+    padding: 4px;
+    border: 2px solid #1d0836;
+    background-color: lightgray;
+    height: 357px;
+}
+img{
+    height: 330px;
+}
+figcaption{
+    font-size: 9px;
+    background-color: lightgray;
+    text-align: center;
+}
 .title {
     text-align: center;
     border: 2px solid #1d0836;
@@ -32,10 +46,12 @@ main{
     border: 2px solid #1d0836;
     padding: 30px;
     margin: 10px;
+    width: 550px;
+    height: 357px;
 }
-.container .text-content{
-    min-height: 238px;
-}
-.container .text-content p{
+.text-content.long{
     text-align: justify;
+}
+.text-content.long h2{
+    text-align: center;
 }
